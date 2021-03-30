@@ -1,0 +1,22 @@
+$font-stack:    Roboto, sans-serif;
+
+body {
+    font: 100% $font-stack;
+    color: white;
+}
+#publishing {
+  a {
+    color: #363636;
+  }
+  display: table;
+  width: 80%;
+  .card {
+    display: table-cell;
+    width: 80%;
+  }
+  .card-button {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0 10px;
+  }
+}
