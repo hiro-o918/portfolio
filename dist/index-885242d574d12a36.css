@@ -1,0 +1,16 @@
+body {
+  font: 100% Roboto, sans-serif;
+  color: white; }
+
+#publishing {
+  display: table;
+  width: 80%; }
+  #publishing a {
+    color: #363636; }
+  #publishing .card {
+    display: table-cell;
+    width: 80%; }
+  #publishing .card-button {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0 10px; }
